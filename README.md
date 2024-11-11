@@ -1,6 +1,6 @@
-# GoldenSun-QOL
+# Golden Sun DoD Minus (Formally known as Golden Sun QOL)
 
-As a heads up, there are no plans for new update Golden Sun QOL, as my time is too focused on other projects to make any further adjustments to this one.  Thank you for your patience and understanding.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Table of Contents
@@ -29,7 +29,7 @@ I.) Overview
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-This mod implements the Quality-of-Life features used in Dawn of Djinn in a setting that better reflects the original game. For players who wish to experience the original world of Golden Sun with those features.
+This mod implements the Quality-of-Life features used in Dawn of Djinn in a setting that better reflects the original game. For players who wish to experience the original world of Golden Sun with those features. Formerly known as Golden Sun QOL, but renammed due to confusion of this being the indefinate way to play Golden Sun. Certain things 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -70,6 +70,10 @@ V.) FAQ
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
+Where is Bilbin Barricade? 
+
+Fast Travel was made by implementing the code used in the Golden Sun Randomizer. Therefore it behaves the same way, via removing Bilbin Barricade in order to create a fast travel point to Crossbone Isles. If the lack of Bilbin Barricade ruins your Golden Sun experience, then this mod is not for you.
+
 How do I install and play?
 
 1. Download the patch. 
@@ -87,3 +91,7 @@ GSTBS_QoL_P: Prologue and Djinn tutorial left in the game.
 GSTBS_QoL_NP: Starts the game off right as Isaac and Garet are leaving Vale, as well as skips the Flint tutorial.
 
 Neither of these patches remove the dialogue, like in Dawn of Djinn V1, however this patch is compatible with the cut-scene skip patch used in Golden Sun 1 speed-runs (Not included). The two can be used in combination to skip the prologue and go through cut-scenes as quickly as possible.
+
+Why does Vault Cave not appear?
+
+Likely because you're trying to get there too early.  There is an in-game flag that prevents the entrance from appearing until after you complete Lamakan Desert, even if you use Reveal. A handful of people in the past have ran into this issue via fast traveling to Vault immediately after getting Reveal and have had better luck after beating the boss and reach the other side of the desert.
